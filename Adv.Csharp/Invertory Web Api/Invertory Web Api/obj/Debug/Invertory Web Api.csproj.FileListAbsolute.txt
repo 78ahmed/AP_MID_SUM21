@@ -1,0 +1,60 @@
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Invertory Web Api.dll.config
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Invertory Web Api.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Invertory Web Api.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\BEL.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\BLL.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\DAL.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\AutoMapper.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\BEL.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\BLL.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\DAL.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\DAL.dll.config
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\AutoMapper.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\obj\Debug\Invertory Web Api.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\obj\Debug\Invertory Web Api.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\obj\Debug\Invertory Web Api.csproj.CopyComplete
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\obj\Debug\Invertory Web Api.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\obj\Debug\Invertory Web Api.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.Cors.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\Invertory Web Api\bin\System.Web.Http.Cors.xml

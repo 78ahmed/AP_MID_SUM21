@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\bin\Debug\BEL.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\bin\Debug\BEL.pdb
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\obj\Debug\BEL.dll
+C:\Users\DELL\Desktop\Adv.Csharp\Invertory Web Api\BEL\obj\Debug\BEL.pdb
